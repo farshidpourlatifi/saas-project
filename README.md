@@ -1,11 +1,11 @@
 Saas Project Starter
 ====================
 projects included:
-Backend
-Frontend
-Types
-Email
-Deploy
+- Backend
+- Frontend
+- Types
+- Email
+- Deploy
 
 Backend
 -------
@@ -18,16 +18,14 @@ Vue JS
 DesignSystem
 ------------
 
-
 Types
 -----
 Front and Back Shared types 
 
 Deploy
 ------
-Jemkins pipeline to build and deploy with versioning
+Jenkins pipeline to build and deploy with versioning
 
 Email
 -----
 email template generator
-
